@@ -97,7 +97,7 @@ getDisplay(number){
  const operationButtons=document.querySelectorAll('[data-operation]')
  const deleteButton= document.querySelector('[data-delete]')
  const equalsButton=document.querySelector("[data-equals]")
- const clearAllButton=document.querySelector("[data-clear]")
+ const clearAllButton=document.querySelector("[data-all-clear]")
  const previousOperandTextElement=document.querySelector("[data-previous-operand]")
  const currentOperandTextElement=document.querySelector("[data-current-operand]")
 
